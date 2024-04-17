@@ -1,0 +1,54 @@
+D:\projects\net\ofimatica_program1_exercises_forms\ofimatica_program1_exercises_forms\bin\Debug\net6.0-windows\ofimatica_program1_exercises_forms.exe
+D:\projects\net\ofimatica_program1_exercises_forms\ofimatica_program1_exercises_forms\bin\Debug\net6.0-windows\ofimatica_program1_exercises_forms.deps.json
+D:\projects\net\ofimatica_program1_exercises_forms\ofimatica_program1_exercises_forms\bin\Debug\net6.0-windows\ofimatica_program1_exercises_forms.runtimeconfig.json
+D:\projects\net\ofimatica_program1_exercises_forms\ofimatica_program1_exercises_forms\bin\Debug\net6.0-windows\ofimatica_program1_exercises_forms.dll
+D:\projects\net\ofimatica_program1_exercises_forms\ofimatica_program1_exercises_forms\bin\Debug\net6.0-windows\ofimatica_program1_exercises_forms.pdb
+D:\projects\net\ofimatica_program1_exercises_forms\ofimatica_program1_exercises_forms\obj\Debug\net6.0-windows\ofimatica_program1_exercises_forms.vbproj.AssemblyReference.cache
+D:\projects\net\ofimatica_program1_exercises_forms\ofimatica_program1_exercises_forms\obj\Debug\net6.0-windows\ofimatica_program1_exercises_forms.vbproj.GenerateResource.cache
+D:\projects\net\ofimatica_program1_exercises_forms\ofimatica_program1_exercises_forms\obj\Debug\net6.0-windows\ofimatica_program1_exercises_forms.GeneratedMSBuildEditorConfig.editorconfig
+D:\projects\net\ofimatica_program1_exercises_forms\ofimatica_program1_exercises_forms\obj\Debug\net6.0-windows\ofimatica_program1_exercises_forms.AssemblyInfoInputs.cache
+D:\projects\net\ofimatica_program1_exercises_forms\ofimatica_program1_exercises_forms\obj\Debug\net6.0-windows\ofimatica_program1_exercises_forms.AssemblyInfo.vb
+D:\projects\net\ofimatica_program1_exercises_forms\ofimatica_program1_exercises_forms\obj\Debug\net6.0-windows\ofimatica_program1_exercises_forms.vbproj.CoreCompileInputs.cache
+D:\projects\net\ofimatica_program1_exercises_forms\ofimatica_program1_exercises_forms\obj\Debug\net6.0-windows\ofimatica_program1_exercises_forms.dll
+D:\projects\net\ofimatica_program1_exercises_forms\ofimatica_program1_exercises_forms\obj\Debug\net6.0-windows\refint\ofimatica_program1_exercises_forms.dll
+D:\projects\net\ofimatica_program1_exercises_forms\ofimatica_program1_exercises_forms\obj\Debug\net6.0-windows\ofimatica_program1_exercises_forms.pdb
+D:\projects\net\ofimatica_program1_exercises_forms\ofimatica_program1_exercises_forms\obj\Debug\net6.0-windows\ofimatica_program1_exercises_forms.genruntimeconfig.cache
+D:\projects\net\ofimatica_program1_exercises_forms\ofimatica_program1_exercises_forms\obj\Debug\net6.0-windows\ref\ofimatica_program1_exercises_forms.dll
+D:\projects\net\ofimatica_program1_exercises_forms\ofimatica_program1_exercises_forms\obj\Debug\net6.0-windows\ofimatica_program1_exercises_forms.FORM_PRINCIPAL.resources
+D:\projects\net\ofimatica_program1_exercises_forms\ofimatica_program1_exercises_forms\obj\Debug\net6.0-windows\ofimatica_program1_exercises_forms.Form3.resources
+D:\UAGRM\Pregrado\Ing. Informatica\2 Semestre\Programacion I\ayudantia\ofimatica_program1_exercises_forms\ofimatica_program1_exercises_forms\bin\Debug\net6.0-windows\ofimatica_program1_exercises_forms.exe
+D:\UAGRM\Pregrado\Ing. Informatica\2 Semestre\Programacion I\ayudantia\ofimatica_program1_exercises_forms\ofimatica_program1_exercises_forms\bin\Debug\net6.0-windows\ofimatica_program1_exercises_forms.deps.json
+D:\UAGRM\Pregrado\Ing. Informatica\2 Semestre\Programacion I\ayudantia\ofimatica_program1_exercises_forms\ofimatica_program1_exercises_forms\bin\Debug\net6.0-windows\ofimatica_program1_exercises_forms.runtimeconfig.json
+D:\UAGRM\Pregrado\Ing. Informatica\2 Semestre\Programacion I\ayudantia\ofimatica_program1_exercises_forms\ofimatica_program1_exercises_forms\bin\Debug\net6.0-windows\ofimatica_program1_exercises_forms.dll
+D:\UAGRM\Pregrado\Ing. Informatica\2 Semestre\Programacion I\ayudantia\ofimatica_program1_exercises_forms\ofimatica_program1_exercises_forms\bin\Debug\net6.0-windows\ofimatica_program1_exercises_forms.pdb
+D:\UAGRM\Pregrado\Ing. Informatica\2 Semestre\Programacion I\ayudantia\ofimatica_program1_exercises_forms\ofimatica_program1_exercises_forms\obj\Debug\net6.0-windows\ofimatica_program1_exercises_forms.vbproj.AssemblyReference.cache
+D:\UAGRM\Pregrado\Ing. Informatica\2 Semestre\Programacion I\ayudantia\ofimatica_program1_exercises_forms\ofimatica_program1_exercises_forms\obj\Debug\net6.0-windows\ofimatica_program1_exercises_forms.FORM_PRINCIPAL.resources
+D:\UAGRM\Pregrado\Ing. Informatica\2 Semestre\Programacion I\ayudantia\ofimatica_program1_exercises_forms\ofimatica_program1_exercises_forms\obj\Debug\net6.0-windows\ofimatica_program1_exercises_forms.Form3.resources
+D:\UAGRM\Pregrado\Ing. Informatica\2 Semestre\Programacion I\ayudantia\ofimatica_program1_exercises_forms\ofimatica_program1_exercises_forms\obj\Debug\net6.0-windows\ofimatica_program1_exercises_forms.vbproj.GenerateResource.cache
+D:\UAGRM\Pregrado\Ing. Informatica\2 Semestre\Programacion I\ayudantia\ofimatica_program1_exercises_forms\ofimatica_program1_exercises_forms\obj\Debug\net6.0-windows\ofimatica_program1_exercises_forms.GeneratedMSBuildEditorConfig.editorconfig
+D:\UAGRM\Pregrado\Ing. Informatica\2 Semestre\Programacion I\ayudantia\ofimatica_program1_exercises_forms\ofimatica_program1_exercises_forms\obj\Debug\net6.0-windows\ofimatica_program1_exercises_forms.AssemblyInfoInputs.cache
+D:\UAGRM\Pregrado\Ing. Informatica\2 Semestre\Programacion I\ayudantia\ofimatica_program1_exercises_forms\ofimatica_program1_exercises_forms\obj\Debug\net6.0-windows\ofimatica_program1_exercises_forms.AssemblyInfo.vb
+D:\UAGRM\Pregrado\Ing. Informatica\2 Semestre\Programacion I\ayudantia\ofimatica_program1_exercises_forms\ofimatica_program1_exercises_forms\obj\Debug\net6.0-windows\ofimatica_program1_exercises_forms.vbproj.CoreCompileInputs.cache
+D:\UAGRM\Pregrado\Ing. Informatica\2 Semestre\Programacion I\ayudantia\ofimatica_program1_exercises_forms\ofimatica_program1_exercises_forms\obj\Debug\net6.0-windows\ofimatica_program1_exercises_forms.dll
+D:\UAGRM\Pregrado\Ing. Informatica\2 Semestre\Programacion I\ayudantia\ofimatica_program1_exercises_forms\ofimatica_program1_exercises_forms\obj\Debug\net6.0-windows\refint\ofimatica_program1_exercises_forms.dll
+D:\UAGRM\Pregrado\Ing. Informatica\2 Semestre\Programacion I\ayudantia\ofimatica_program1_exercises_forms\ofimatica_program1_exercises_forms\obj\Debug\net6.0-windows\ofimatica_program1_exercises_forms.pdb
+D:\UAGRM\Pregrado\Ing. Informatica\2 Semestre\Programacion I\ayudantia\ofimatica_program1_exercises_forms\ofimatica_program1_exercises_forms\obj\Debug\net6.0-windows\ofimatica_program1_exercises_forms.genruntimeconfig.cache
+D:\UAGRM\Pregrado\Ing. Informatica\2 Semestre\Programacion I\ayudantia\ofimatica_program1_exercises_forms\ofimatica_program1_exercises_forms\obj\Debug\net6.0-windows\ref\ofimatica_program1_exercises_forms.dll
+D:\UAGRM\Pregrado\Lic. en Ofimatica\Programación\ayudantia\ofimatica_program1_exercises_forms\ofimatica_program1_exercises_forms\bin\Debug\net6.0-windows\ofimatica_program1_exercises_forms.exe
+D:\UAGRM\Pregrado\Lic. en Ofimatica\Programación\ayudantia\ofimatica_program1_exercises_forms\ofimatica_program1_exercises_forms\bin\Debug\net6.0-windows\ofimatica_program1_exercises_forms.deps.json
+D:\UAGRM\Pregrado\Lic. en Ofimatica\Programación\ayudantia\ofimatica_program1_exercises_forms\ofimatica_program1_exercises_forms\bin\Debug\net6.0-windows\ofimatica_program1_exercises_forms.runtimeconfig.json
+D:\UAGRM\Pregrado\Lic. en Ofimatica\Programación\ayudantia\ofimatica_program1_exercises_forms\ofimatica_program1_exercises_forms\bin\Debug\net6.0-windows\ofimatica_program1_exercises_forms.dll
+D:\UAGRM\Pregrado\Lic. en Ofimatica\Programación\ayudantia\ofimatica_program1_exercises_forms\ofimatica_program1_exercises_forms\bin\Debug\net6.0-windows\ofimatica_program1_exercises_forms.pdb
+D:\UAGRM\Pregrado\Lic. en Ofimatica\Programación\ayudantia\ofimatica_program1_exercises_forms\ofimatica_program1_exercises_forms\obj\Debug\net6.0-windows\ofimatica_program1_exercises_forms.vbproj.AssemblyReference.cache
+D:\UAGRM\Pregrado\Lic. en Ofimatica\Programación\ayudantia\ofimatica_program1_exercises_forms\ofimatica_program1_exercises_forms\obj\Debug\net6.0-windows\ofimatica_program1_exercises_forms.FORM_PRINCIPAL.resources
+D:\UAGRM\Pregrado\Lic. en Ofimatica\Programación\ayudantia\ofimatica_program1_exercises_forms\ofimatica_program1_exercises_forms\obj\Debug\net6.0-windows\ofimatica_program1_exercises_forms.Form3.resources
+D:\UAGRM\Pregrado\Lic. en Ofimatica\Programación\ayudantia\ofimatica_program1_exercises_forms\ofimatica_program1_exercises_forms\obj\Debug\net6.0-windows\ofimatica_program1_exercises_forms.vbproj.GenerateResource.cache
+D:\UAGRM\Pregrado\Lic. en Ofimatica\Programación\ayudantia\ofimatica_program1_exercises_forms\ofimatica_program1_exercises_forms\obj\Debug\net6.0-windows\ofimatica_program1_exercises_forms.GeneratedMSBuildEditorConfig.editorconfig
+D:\UAGRM\Pregrado\Lic. en Ofimatica\Programación\ayudantia\ofimatica_program1_exercises_forms\ofimatica_program1_exercises_forms\obj\Debug\net6.0-windows\ofimatica_program1_exercises_forms.AssemblyInfoInputs.cache
+D:\UAGRM\Pregrado\Lic. en Ofimatica\Programación\ayudantia\ofimatica_program1_exercises_forms\ofimatica_program1_exercises_forms\obj\Debug\net6.0-windows\ofimatica_program1_exercises_forms.AssemblyInfo.vb
+D:\UAGRM\Pregrado\Lic. en Ofimatica\Programación\ayudantia\ofimatica_program1_exercises_forms\ofimatica_program1_exercises_forms\obj\Debug\net6.0-windows\ofimatica_program1_exercises_forms.vbproj.CoreCompileInputs.cache
+D:\UAGRM\Pregrado\Lic. en Ofimatica\Programación\ayudantia\ofimatica_program1_exercises_forms\ofimatica_program1_exercises_forms\obj\Debug\net6.0-windows\ofimatica_program1_exercises_forms.dll
+D:\UAGRM\Pregrado\Lic. en Ofimatica\Programación\ayudantia\ofimatica_program1_exercises_forms\ofimatica_program1_exercises_forms\obj\Debug\net6.0-windows\refint\ofimatica_program1_exercises_forms.dll
+D:\UAGRM\Pregrado\Lic. en Ofimatica\Programación\ayudantia\ofimatica_program1_exercises_forms\ofimatica_program1_exercises_forms\obj\Debug\net6.0-windows\ofimatica_program1_exercises_forms.pdb
+D:\UAGRM\Pregrado\Lic. en Ofimatica\Programación\ayudantia\ofimatica_program1_exercises_forms\ofimatica_program1_exercises_forms\obj\Debug\net6.0-windows\ofimatica_program1_exercises_forms.genruntimeconfig.cache
+D:\UAGRM\Pregrado\Lic. en Ofimatica\Programación\ayudantia\ofimatica_program1_exercises_forms\ofimatica_program1_exercises_forms\obj\Debug\net6.0-windows\ref\ofimatica_program1_exercises_forms.dll
